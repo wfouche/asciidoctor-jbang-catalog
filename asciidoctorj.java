@@ -5,8 +5,8 @@
 //DEPS org.asciidoctor:asciidoctorj-api:3.0.1
 //DEPS org.asciidoctor:asciidoctorj-cli:3.0.1
 //DEPS org.asciidoctor:asciidoctorj-epub3:2.2.0
-//DEPS org.asciidoctor:asciidoctorj-diagram:3.1.0
-//DEPS org.asciidoctor:asciidoctorj-diagram-batik:1.17
+//DEPS org.asciidoctor:asciidoctorj-diagram:3.2.0
+//DEPS org.asciidoctor:asciidoctorj-diagram-batik:1.19
 //DEPS org.asciidoctor:asciidoctorj-diagram-ditaamini:1.0.3
 //DEPS org.asciidoctor:asciidoctorj-diagram-plantuml:1.2025.3
 //DEPS org.asciidoctor:asciidoctorj-diagram-jsyntrax:1.38.2
