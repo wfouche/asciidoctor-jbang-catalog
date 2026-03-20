@@ -13,7 +13,7 @@
 //DEPS org.asciidoctor:asciidoctorj-pdf:2.3.23
 //DEPS org.asciidoctor:asciidoctorj-revealjs:5.2.0
 
-// Exclude these JARs, JBang will load then automatically
+// Exclude these JARs, JBang will load them automatically
 // --DEPS com.beust:jcommander:2.0
 // --DEPS org.jruby:jruby-complete:9.4.14.0
 
