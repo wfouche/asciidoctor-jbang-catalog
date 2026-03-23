@@ -19,6 +19,11 @@
 
 //JAVA 11+
 
+// Support Java 25+
+//RUNTIME_OPTIONS -XX:+IgnoreUnrecognizedVMOptions
+//RUNTIME_OPTIONS --enable-native-access=ALL-UNNAMED
+//RUNTIME_OPTIONS --sun-misc-unsafe-memory-access=allow
+
 import java.io.IOException;
 import org.asciidoctor.cli.jruby.AsciidoctorInvoker;
 
