@@ -10,7 +10,7 @@
 //DEPS org.asciidoctor:asciidoctorj-diagram-ditaamini:1.0.3
 //DEPS org.asciidoctor:asciidoctorj-diagram-plantuml:1.2026.2
 //DEPS org.asciidoctor:asciidoctorj-diagram-jsyntrax:1.38.2
-//DEPS org.asciidoctor:asciidoctorj-pdf:2.3.23
+//DEPS org.asciidoctor:asciidoctorj-pdf:2.3.27
 //DEPS org.asciidoctor:asciidoctorj-revealjs:5.2.0
 
 // Exclude these JARs, JBang will load them automatically
